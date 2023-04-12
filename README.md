@@ -1,7 +1,7 @@
 ![](https://github.com/stephenlinker/stephenlinker/blob/main/HelloWORLD.png)
 ### Hi there 👋
-:computer: I like to automate 
-:metal: I'm a metalhead
+- :computer: I like to automate 
+- :metal: I'm a metalhead
 
 <!--
 **stephenlinker/stephenlinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
