@@ -1,6 +1,8 @@
 ![](https://github.com/stephenlinker/stephenlinker/blob/main/HelloWORLD.png)
-### Hi there 👋
+### Hey!!! 👋
 - :computer: I like to automate all the things
+- :thinking: I'm leaning OpenShift
+-  💬 Ask me about virtualization (VMware and Nutanix), enterprise storage, and the cloud
 - :metal: I'm a metalhead
 
 <!--
