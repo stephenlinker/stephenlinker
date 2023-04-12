@@ -1,6 +1,6 @@
 ![](https://github.com/stephenlinker/stephenlinker/blob/main/HelloWORLD.png)
 ### Hi there 👋
-- :computer: I like to automate 
+- :computer: I like to automate all the things
 - :metal: I'm a metalhead
 
 <!--
