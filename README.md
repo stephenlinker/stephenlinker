@@ -1,5 +1,5 @@
 ![](https://github.com/stephenlinker/stephenlinker/blob/main/HelloWORLD.png)
-### Hey!!! 👋
+# :wave: Hey!!!
 - :computer: I like to automate all the things
 - :thinking: I'm leaning OpenShift
 -  💬 Ask me about virtualization (VMware and Nutanix), enterprise storage, and the cloud
